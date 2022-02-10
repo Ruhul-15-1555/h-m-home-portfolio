@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+p{
+    color: rgb(15, 145, 134);
+    font-weight: 500;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+
+footer p{
+    text-align: center;
+    color: rgb(34, 125, 178);
+    font-weight: 700;
+}
+    .flexible-container{
+        display: flex;
+        padding-bottom: 200px;
+    }
+
+    .half-width{
+        width: 50%;
+        padding-left: 2%;
+
+    }
+
+    .half-width img{
+        width: 100%;
+        padding-top: 2%;
+    
+    }
+    .orange-color{
+        color: orange;
+    }
+
+    .link-button{
+        color: rgb(4, 71, 71);
+        text-decoration: none;
+        background-image: linear-gradient(rgba(135, 233, 6, 0.911),rgba(219, 193, 48, 0.699));
+        padding: 8px 30px;
+        font-weight: 700;
+        border-radius: 5px;
+    
+    }
+
+    .top-banner{
+        background-image: url(top-banner.png);
+        background-repeat: no-repeat;
+
+    }
+
+    .half-width-image{
+        padding: 25px 50px 25px 25px;
+        height: 450px;   
+    }
+    .drawing-room
+        {
+            background-image: url(dream-bg.png);
+            background-repeat: no-repeat;
+            background-position: right;
+        }
+        .box-create{
+            box-shadow:10px 10px 40px gray ;
+            border-radius: 10px;
+            width: 45%;
+            margin-left: 5%;
+            margin-right: 5%;
+            padding-left: 2%;
+            padding-right: 2%;
+        }
+
+        #chadpur{
+            border-left: 8px solid;
+            border-image: linear-gradient(blue,red);
+            border-image-slice: 1;
+        }
+
+        #banani{
+            border-left: 8px solid;
+            border-image: linear-gradient(rgb(0, 162, 255),rgb(255, 196, 0));
+            border-image-slice: 1;
+
+        }
+
+        #gazipur{
+            border-left: 8px solid;
+            border-image: linear-gradient(rgb(255, 0, 234),rgb(3, 76, 94));
+            border-image-slice: 1;
+        }
+
+        .back{
+            background-image: url("exp-bg.png");
+            background-repeat: no-repeat;
+            background-position: left;
+        }
+
+    
+    
+    
+  
+
+    
